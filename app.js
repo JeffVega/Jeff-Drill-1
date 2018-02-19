@@ -1,2 +1,2 @@
 const myTeam = "Jeff Capi";
-console.log(myTeam)
+console.log(myTeam);
